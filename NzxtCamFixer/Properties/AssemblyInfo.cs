@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NzxtCamFixer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simple fix for Nzxt Cam application")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("adan2013")]
 [assembly: AssemblyProduct("NzxtCamFixer")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
